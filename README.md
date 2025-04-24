@@ -18,6 +18,7 @@ Paths and variable names should be adapted based on user-specific ABCD datasets.
 All statistical analyses were conducted using:
 - **Python**: v3.8  
 - **R**: v4.3.4
+  
 Key packages used in the analysis:
 - `lme4` (v1.1-33, R)
 - `lavaan` (v0.6-19, R)
